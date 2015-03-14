@@ -4,5 +4,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="welcome">Welcome to the Photo App</string>
     <string name="action_settings">Settings</string>
+    <string name="First_page_button">Continue</string>
 
 </resources>

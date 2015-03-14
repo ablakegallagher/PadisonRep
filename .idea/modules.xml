@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PadisonApp.iml" filepath="$PROJECT_DIR$/PadisonApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PadisonRep.iml" filepath="$PROJECT_DIR$/PadisonRep.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

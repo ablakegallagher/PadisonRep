@@ -11,12 +11,14 @@
         android:textSize="60px"/>
 
     <Button
+        android:id="@+id/continue_button"
         android:layout_width="500px"
         android:layout_centerHorizontal="true"
         android:text="@string/First_page_button"
         android:textColor="#ffffff"
         android:background="#000000"
         android:layout_alignParentBottom="true"
+        android:onClick="onClick"
         android:layout_height="100px" />
 
 </RelativeLayout>
